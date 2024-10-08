@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: tuicn-ugrrd
+created: 2024-10-09T05:13:02+06:00
